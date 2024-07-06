@@ -1,0 +1,51 @@
+DocID,BorrowerID,Category,Title,FileName
+DABCEF,100000001,Personal,Loan Agreement,loan_agreement.pdf
+DBCDEF,100000002,Financial,Tax Returns,tax_returns.pdf
+DCDEFA,100000003,Legal,Property Deed,property_deed.pdf
+DDEABC,100000004,Personal,Identification,id_card.pdf
+DEABCD,100000005,Financial,Bank Statements,bank_statements.pdf
+DFBCDE,100000006,Legal,Insurance Policy,insurance_policy.pdf
+DGBCDA,100000007,Personal,Employment Verification,employment_verification.pdf
+DHBCDE,100000008,Financial,Credit Report,credit_report.pdf
+DIABCD,100000009,Legal,Power of Attorney,power_of_attorney.pdf
+DJABCD,100000010,Personal,Rental Agreement,rental_agreement.pdf
+DKBCDE,100000011,Financial,Pay Stubs,pay_stubs.pdf
+DLBCDE,100000012,Legal,Divorce Decree,divorce_decree.pdf
+DMABCD,100000013,Personal,Passport,passport.pdf
+DNABCD,100000014,Financial,Mortgage Statement,mortgage_statement.pdf
+DOBCDE,100000015,Legal,Will,will.pdf
+DPABCD,100000016,Personal,Medical Records,medical_records.pdf
+DQABCD,100000017,Financial,Investment Portfolio,investment_portfolio.pdf
+DRABCD,100000018,Legal,Contract,contract.pdf
+DSABCD,100000019,Personal,Birth Certificate,birth_certificate.pdf
+DTABCD,100000020,Financial,Student Loan Agreement,student_loan_agreement.pdf
+DUABCD,100000021,Legal,Court Orders,court_orders.pdf
+DVABCD,100000022,Personal,Marriage Certificate,marriage_certificate.pdf
+DWABCD,100000023,Financial,Budget Plan,budget_plan.pdf
+DXABCD,100000024,Legal,Affidavit,affidavit.pdf
+DYABCD,100000025,Personal,Social Security Card,social_security_card.pdf
+DZABCD,100000001,Personal,Loan Agreement,loan_agreement.pdf
+DABCEF,100000002,Financial,Tax Returns,tax_returns.pdf
+DBCDEF,100000003,Legal,Property Deed,property_deed.pdf
+DCDEFA,100000004,Personal,Identification,id_card.pdf
+DDEABC,100000005,Financial,Bank Statements,bank_statements.pdf
+DEABCD,100000006,Legal,Insurance Policy,insurance_policy.pdf
+DFBCDE,100000007,Personal,Employment Verification,employment_verification.pdf
+DGBCDA,100000008,Financial,Credit Report,credit_report.pdf
+DHBCDE,100000009,Legal,Power of Attorney,power_of_attorney.pdf
+DIABCD,100000010,Personal,Rental Agreement,rental_agreement.pdf
+DJABCD,100000011,Financial,Pay Stubs,pay_stubs.pdf
+DKBCDE,100000012,Legal,Divorce Decree,divorce_decree.pdf
+DLBCDE,100000013,Personal,Passport,passport.pdf
+DMABCD,100000014,Financial,Mortgage Statement,mortgage_statement.pdf
+DNABCD,100000015,Legal,Will,will.pdf
+DOBCDE,100000016,Personal,Medical Records,medical_records.pdf
+DPABCD,100000017,Financial,Investment Portfolio,investment_portfolio.pdf
+DQABCD,100000018,Legal,Contract,contract.pdf
+DRABCD,100000019,Personal,Birth Certificate,birth_certificate.pdf
+DSABCD,100000020,Financial,Student Loan Agreement,student_loan_agreement.pdf
+DTABCD,100000021,Legal,Court Orders,court_orders.pdf
+DUABCD,100000022,Personal,Marriage Certificate,marriage_certificate.pdf
+DVABCD,100000023,Financial,Budget Plan,budget_plan.pdf
+DWABCD,100000024,Legal,Affidavit,affidavit.pdf
+DXABCD,100000025,Personal,Social Security Card,social_security_card.pdf
